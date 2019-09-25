@@ -1,5 +1,5 @@
 
-# Java Microservices with Spring Boot and Spring Cloud 🍃☁️
+# Java Microservices with Spring Boot and Spring Cloud
  
 Log in to your Okta dashboard, edit your OIDC app, and add the following Login redirect URI:
 
